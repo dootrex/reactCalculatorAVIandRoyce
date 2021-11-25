@@ -1,0 +1,14 @@
+.buttonPanel {
+  display: grid;
+  grid-template-columns: repeat(6, 100px);
+  grid-template-areas:
+    ". ms mc mr m-plus m-minus"
+    "ac seven eight nine percent square-root"
+    "c four five six multiply divide"
+    ". one two three add subtract"
+    ". zero decimal sign equal equal";
+}
+
+.ms {
+  grid-area: ms;
+}
