@@ -1,4 +1,4 @@
-//Assingment completed by Amaninder(Avi) Gill and Royce Wee
+//Assingment completed by Amaninder(Avi) Gill and Royce WEe
 import ButtonPanel from "./ButtonPanel";
 import Display from "./Display";
 import { useState } from "react";
